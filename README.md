@@ -12,9 +12,9 @@ Built with love for simplicity, focus, and the joy of completing small tasks.
 
 - **`Add Tasks`** — Quickly jot down tasks with just a few keystrokes.
 - **`Priority Levels`** — Choose from:
-  - 🔴 High (Red)
-  - 🟡 Medium (Yellow)
-  - 🟢 Low (Green)
+  - 🔴 High
+  - 🟡 Medium
+  - 🟢 Low
 - **`Sorted by Priority`** — Tasks are automatically sorted from highest to lowest priority.
 - **`Complete Tasks`** — Mark tasks as done; they'll appear with a strikethrough for clarity.
 - **`Delete Tasks`** — Easily remove tasks you no longer need.
@@ -22,5 +22,5 @@ Built with love for simplicity, focus, and the joy of completing small tasks.
 - **`Focus-Oriented Design`** — Minimal UI that keeps your attention on what matters.
 
 ### Preview :
-<img width="300" height="800" alt="Screenshot 2025-07-28 at 2 03 21 AM" src="https://github.com/user-attachments/assets/ffc3f7fb-82fb-461f-b428-5e5227c92efd" />
-<br><br>
+
+<img width="1204" height="767" alt="image" src="https://github.com/user-attachments/assets/642f295b-a18f-462b-8201-4477fe31ef81" />
